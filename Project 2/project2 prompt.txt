@@ -1,0 +1,49 @@
+1.  Create a Perl script that will do the following         
+
+       a.  Read in 10 values into an Array.  Either from the screen or a file        
+
+       b.  Sort the Array.         
+
+       c.  Print the size out of the Array to the screen.         
+
+       d.  Print the Array to the screen.         
+
+       e.  Delete the values in the array.         
+
+       f.  Print the array size.
+
+ 
+
+2.  Create a perl script that will do the following       
+
+       a.  read in 10 key/values.     Either from the screen or a file  
+
+       b.  Print out the key/value pairs.       
+
+       c.  Print the size of the hash.       
+
+       d.  delete all the key/value pairs.       
+
+       e.  Print the size of the hash. 
+
+ 
+
+3.  Create a perl Program that will do the following   
+
+       a.  Create a new database called assignment2.db3   
+
+       b.  create a table name readme in the database with the following columns         
+
+               1.  Line_Number  num         
+
+               2.  Line_Text    text   
+
+       c.  Read the file readme.txt which is an attachment to the assignment   
+
+       d.  For each line that is read insert it into the database along with the line number.   
+
+       e.  Once the file has been read in completely then close it.   
+
+       f.  Select the data from the table readme and output it to a comma seperated file named readme.csv   
+
+       g.  Close the file and the database.   
